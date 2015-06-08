@@ -1,0 +1,43 @@
+{
+  "recipe": {
+    "name" : "Honey Cumin Pork Chops",
+    "ingredients" : [
+      {
+        "amount" : "1/4",
+        "U/M": "cup",
+        "ingredient" : "honey"
+      },
+      {
+        "amount" : "2",
+        "U/M": "tablespoon",
+        "ingredient" : "vegetable oil"
+      },
+      {
+        "amount" : "1",
+        "U/M": "tablespoon",
+        "ingredient" : "apple cider vinegar"
+      },
+      {
+        "amount" : "1",
+        "U/M": "teaspoon",
+        "ingredient" : "ground cumin"
+      },
+      {
+        "amount" : "1/2",
+        "U/M": "teaspoon",
+        "ingredient" : "red pepper flakes"
+      },
+      {
+        "amount" : "1",
+        "U/M": "pinch",
+        "ingredient" : "salt"
+      },
+      {
+        "amount" : "1",
+        "U/M": "pinch",
+        "ingredient" : "pepper"
+      }
+    ],
+    "directions" : "Wisk all ingredients into bowl and poor into freezer bag or cassaroll dish. Let meat marinate for 1 hour at room temp. Grill marinated chops on grill."
+  }
+}

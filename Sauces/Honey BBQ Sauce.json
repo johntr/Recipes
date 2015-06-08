@@ -1,0 +1,63 @@
+{
+  "recipe": {
+    "name" : "Honey BBQ Sauce",
+    "ingredients" : [
+        {
+          "amount" : "1",
+          "U/M": "can (8 ounces)",
+          "ingredient" : "tomato sauce"
+        },
+        {
+          "amount" : "2",
+          "U/M": "tablespoons",
+          "ingredient" : "brown sugar"
+        },
+        {
+          "amount" : "2",
+          "U/M": "tablespoons",
+          "ingredient" : "honey"
+        },
+        {
+          "amount" : "1",
+          "U/M": "tablespoon",
+          "ingredient" : "lemon juice"
+        },
+        {
+          "amount" : "1",
+          "U/M": "tablespoon",
+          "ingredient" : "molasses"
+        },
+        {
+          "amount" : "1 1/2",
+          "U/M": "teaspoons",
+          "ingredient" : "Worcestershire sauce"
+        },
+        {
+          "amount" : "1 1/2",
+          "U/M": "teaspoons",
+          "ingredient" : "prepared mustard"
+        },
+        {
+          "amount" : "1",
+          "U/M": "clove",
+          "ingredient" : "garlic, minced"
+        },
+        {
+          "amount" : "1/4",
+          "U/M": "teaspoon",
+          "ingredient" : "dried oregano"
+        },
+        {
+          "amount" : "1/4",
+          "U/M": "teaspoon",
+          "ingredient" : "chili powder"
+        },
+        {
+          "amount" : "1/8",
+          "U/M": "teaspoon",
+          "ingredient" : "pepper"
+        },
+      ],
+      "directions" : " "
+    }
+  }

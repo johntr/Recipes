@@ -1,0 +1,28 @@
+{
+  "recipe": {
+    "name" : "Mom's Honey Dijon Chicken",
+    "ingredients" : [
+        {
+          "amount" : "1",
+          "U/M": "cup",
+          "ingredient" : "chicken broth"
+        },
+        {
+          "amount" : "1/2",
+          "U/M": "cup",
+          "ingredient" : "apple juice concentrate"
+        },
+        {
+          "amount" : "1/4",
+          "U/M": "cup",
+          "ingredient" : "honey"
+        },
+        {
+          "amount" : "1/4",
+          "U/M": "cup",
+          "ingredient" : "dijon mustard"
+        },
+      ],
+    "directions" : "Combine ingredients and wisk to combine. Marinate with chicken for atleast an hour.",
+  }
+}
