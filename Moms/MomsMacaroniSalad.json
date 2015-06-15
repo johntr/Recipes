@@ -1,0 +1,46 @@
+{
+  "name" : "Mom's Macaroni Salad",
+  "ingredients" : [
+      {
+        "amount" : "3/4",
+        "um": "whole",
+        "ingredient" : "green pepper"
+      },
+      {
+        "amount" : "1/2",
+        "um": "whole",
+        "ingredient" : "onion"
+      },
+      {
+        "amount" : "1/2",
+        "um": "whole",
+        "ingredient" : "tomatos"
+      },
+      {
+        "amount" : "2",
+        "um": "whole",
+        "ingredient" : "Hard boiled eggs"
+      },
+      {
+        "amount" : "1",
+        "um": "bottle",
+        "ingredient" : "thousand island dressing"
+      },
+      {
+        "amount" : "1",
+        "um": "tablespoon",
+        "ingredient" : "Mayonnaise"
+      },
+      {
+        "amount" : "1",
+        "um": "tablespoon",
+        "ingredient" : "McCornicks season salt"
+      },
+      {
+        "amount" : "1",
+        "um": "box",
+        "ingredient" : "Elbow noodles"
+      }
+    ],
+    "directions" : "Overcook macaroni and rinse with cold water in the colender. Put bowl on noodles to chill. Chop vegtables and cook and cut up hard boiled eggs. Once noodles are chilled combine with vegtables. Then add Dressing and Mayonnaise. Season with season salt and put back in fridge to cool and set."
+}
