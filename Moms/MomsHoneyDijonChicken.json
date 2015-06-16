@@ -1,5 +1,6 @@
 {
   "name" : "Mom's Honey Dijon Chicken",
+  "machine_name" : "mhomdc",
   "ingredients" : [
       {
         "amount" : "1",

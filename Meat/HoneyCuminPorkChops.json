@@ -1,5 +1,6 @@
 {
   "name" : "Honey Cumin Pork Chops",
+  "machine_name" : "hcpc",
   "ingredients" : [
     {
       "amount" : "1/4",

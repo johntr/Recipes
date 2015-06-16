@@ -1,5 +1,6 @@
 {
   "name" : "Honey BBQ Sauce",
+  "machine_name" : "hbbqs",
   "ingredients" : [
       {
         "amount" : "1",

@@ -1,5 +1,6 @@
 {
   "name" : "Mom's Macaroni Salad",
+  "machine_name" : "momms",
   "ingredients" : [
       {
         "amount" : "3/4",
